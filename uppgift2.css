@@ -1,0 +1,29 @@
+body
+{
+    background-color: silver; color: red;
+}
+h1{ 
+    font-family: Arial; 
+    font-size: 22px;
+}
+h2{ 
+    background-color: blue; color: white;
+}
+.gultext{
+	background-color: white; color: black;
+    text-align: center;
+
+}
+
+.tankar{ 
+    text-align: right;
+}
+a{
+    text-decoration: none;
+    
+}
+
+.migsjalv{
+  border:1px solid black;
+}
+
